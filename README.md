@@ -21,7 +21,7 @@ Each smart contract folder contains the contract code (`.sol`) and their corresp
 
 ### Wargames
 
-Here are my solutions to blockchain security wargames, challenges,and capture the flag (CTF) competitions.
+Here are my solutions to blockchain security wargames, challenges, and capture the flag (CTF) competitions.
 
 - [Ethernaut](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/wargames/ethernaut)
 
