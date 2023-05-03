@@ -9,6 +9,7 @@ Contact me if you'd like to connect.
 ## Table of Contents
 
 1. [Smart Contracts](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/smart-contracts)
+2. Wargames
 
 ### Smart Contracts
 
@@ -17,6 +18,12 @@ Here, you can explore various smart contracts (including Hardhat tests) I've dev
 - [Custom ERC20 Token](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/smart-contracts/custom-erc20-token)
 
 Each smart contract folder contains the contract code (`.sol`) and their corresponding tests (`.js`).
+
+### Wargames
+
+Here are my solutions to blockchain security wargames, challenges,and capture the flag (CTF) competitions.
+
+- Ethernaut
 
 ## Contact Info
 
