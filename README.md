@@ -8,13 +8,13 @@ Contact me if you'd like to connect.
 
 ## Table of Contents
 
-1. [Smart Contracts](./smart-contracts)
+1. [Smart Contracts](./smart-contract-security-researcher-portfolio/smart-contracts)
 
 ### Smart Contracts
 
 Here, you can explore various smart contracts (including Hardhat tests) I've developed during my learning journey, including:
 
-- [Custom ERC20 Token](./smart-contracts/custom-erc20-token)
+- [Custom ERC20 Token](./smart-contract-security-researcher-portfolio/smart-contracts/custom-erc20-token)
 
 Each smart contract folder contains the contract code (`.sol`) and their corresponding tests (`.js`).
 
