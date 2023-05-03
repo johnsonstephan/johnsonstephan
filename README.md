@@ -9,7 +9,7 @@ Contact me if you'd like to connect.
 ## Table of Contents
 
 1. [Smart Contracts](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/smart-contracts)
-2. Wargames
+2. [Wargames](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/wargames)
 
 ### Smart Contracts
 
@@ -23,7 +23,7 @@ Each smart contract folder contains the contract code (`.sol`) and their corresp
 
 Here are my solutions to blockchain security wargames, challenges,and capture the flag (CTF) competitions.
 
-- Ethernaut
+- [Ethernaut](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/wargames/ethernaut)
 
 ## Contact Info
 
