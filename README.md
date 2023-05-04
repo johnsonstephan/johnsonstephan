@@ -16,6 +16,7 @@ Contact me if you'd like to connect.
 Here, you can explore various smart contracts (including Hardhat tests) I've developed during my learning journey, including:
 
 - [Custom ERC20 Token](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/smart-contracts/custom-erc20-token)
+- [Token Depository and Receipt Token](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/smart-contracts/token-depository-and-receipt-token)
 
 Each smart contract folder contains the contract code (`.sol`) and their corresponding tests (`.js`).
 
