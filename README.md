@@ -9,7 +9,8 @@ Contact me if you'd like to connect.
 ## Table of Contents
 
 1. [Smart Contracts](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/smart-contracts)
-2. [Wargames](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/wargames)
+2. [Vulnerabilities and Safeguards](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards)
+3. [Wargames](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/wargames)
 
 ### Smart Contracts
 
@@ -21,6 +22,12 @@ Here, you can explore various smart contracts (including Hardhat tests) I've dev
 - [Token Depository and Receipt Token](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/smart-contracts/erc20/token-depository-and-receipt-token)
 
 Each smart contract folder contains the contract code (`.sol`) and their corresponding tests (`.js`).
+
+### Vulnerabilities and Safeguards
+
+Here is a compilation of projects that underline common vulnerabilities and exhibit how they can be exploited. For some, resolution methods and improved contract versions are included, showcasing best practices to fortify the contract's security.
+
+Highlights include:
 
 ### Wargames
 
