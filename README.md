@@ -27,6 +27,7 @@ Each smart contract folder contains the contract code (`.sol`) and their corresp
 
 Here is a compilation of projects that underline common vulnerabilities and exhibit how they can be exploited. For some, improved contracts are included, showcasing best practices to fortify the contract's security. Highlights include:
 
+- [Insecure Blockhash] (https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/insecure-randomness/randomness-blockhash)
 - [Guessing Random Numbers](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/insecure-randomness/randomness-guessing)
 
 ### Wargames
