@@ -29,6 +29,8 @@ Here is a compilation of projects that underline common vulnerabilities and exhi
 
 Highlights include:
 
+- [Guessing Random Numbers](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/insecure-randomness/randomness-guessing)
+
 ### Wargames
 
 Here are my solutions to blockchain security wargames, challenges, and capture the flag (CTF) competitions.
