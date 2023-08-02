@@ -25,9 +25,7 @@ Each smart contract folder contains the contract code (`.sol`) and their corresp
 
 ### Vulnerabilities and Safeguards
 
-Here is a compilation of projects that underline common vulnerabilities and exhibit how they can be exploited. For some, resolution methods and improved contract versions are included, showcasing best practices to fortify the contract's security.
-
-Highlights include:
+Here is a compilation of projects that underline common vulnerabilities and exhibit how they can be exploited. For some, resolution methods and improved contract versions are included, showcasing best practices to fortify the contract's security. Highlights include:
 
 - [Guessing Random Numbers](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/insecure-randomness/randomness-guessing)
 
