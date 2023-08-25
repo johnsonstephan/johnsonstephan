@@ -26,7 +26,6 @@ Here, you can explore various smart contracts I've developed, including:
 Here is a compilation of projects that underline common vulnerabilities and exhibit how they can be exploited. For some, improved contracts are included, showcasing best practices to fortify the contract's security. Highlights include:
 
 - [CryptoBank Reentrancy](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/reentrancy/cryptobank-reentrancy)
-- [NFT Airdrop Reentrancy](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/reentrancy/nft-airdrop-reentrancy)
 - [TX Origin Phishing](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/phishing/tx-origin-phishing)
 - [Token Minting Underflow](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/arithmetic-wraparounds/token-minting-underflow)
 - [ICO Overflow](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/arithmetic-wraparounds/ico-overflow)
