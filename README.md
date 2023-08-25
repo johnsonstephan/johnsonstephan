@@ -14,19 +14,23 @@ Contact me if you'd like to connect.
 
 ### Smart Contracts
 
-Here, you can explore various smart contracts (including Hardhat tests) I've developed during my learning journey, including:
+Here, you can explore various smart contracts I've developed, including:
 
 - [NFT Marketplace: OpenWave](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/smart-contracts/erc721/custom-erc721-marketplace)
 - [Custom NFT ERC721 Token](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/smart-contracts/erc721/custom-nft-erc721-token)
 - [Custom ERC20 Token](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/smart-contracts/erc20/custom-erc20-token)
 - [Token Depository and Receipt Token](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/smart-contracts/erc20/token-depository-and-receipt-token)
 
-Each smart contract folder contains the contract code (`.sol`) and their corresponding tests (`.js`).
-
 ### Vulnerabilities and Safeguards
 
 Here is a compilation of projects that underline common vulnerabilities and exhibit how they can be exploited. For some, improved contracts are included, showcasing best practices to fortify the contract's security. Highlights include:
 
+- [CryptoBank Reentrancy](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/reentrancy/cryptobank-reentrancy)
+- [NFT Airdrop Reentrancy](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/reentrancy/nft-airdrop-reentrancy)
+- [TX Origin Phishing](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/phishing/tx-origin-phishing)
+- [Token Minting Underflow](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/arithmetic-wraparounds/token-minting-underflow)
+- [ICO Overflow](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/arithmetic-wraparounds/ico-overflow)
+- [Beyond The Limit Overflow](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/arithmetic-wraparounds/beyond-the-limit-overflow)
 - [Timed Vault Overflow](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/arithmetic-wraparounds/timed-vault-overflow)
 - [Insecure Blockhash](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/insecure-randomness/randomness-blockhash)
 - [Guessing Random Numbers](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/insecure-randomness/randomness-guessing)
