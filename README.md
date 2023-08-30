@@ -1,20 +1,24 @@
-# Smart Contract Security Researcher Portfolio
+# Hi there, I'm Stephan.
 
-Hi there, I'm Stephan. I am currently completing the [Secureum Bootcamp](https://www.secureum.xyz/epoch0). I recently completed my [MSc in Blockchain and Digital Currency](https://www.unic.ac.cy/blockchain/msc-digital-currency/) at the University of Nicosia as a [Coinbase Scholar](https://www.unic.ac.cy/unic-and-coinbase-announce-awardees-of-their-scholarship-programme-for-minority-professionals/#:~:text=I%20chose%20to%20apply%20to%20the,accessibility%20of%20financial%20services). Following the bootcamp, I intend to begin bug hunting on Code4rena, Sherlock, and Immunefi.
+- Solidity smart contract auditor and researcher
+- Currently bug hunting and conducting research
+- Completed the [Secureum Bootcamp](https://www.secureum.xyz/bootcamp/)
+- Completed my [MSc in Blockchain and Digital Currency](https://www.unic.ac.cy/blockchain/msc-digital-currency/) at the University of Nicosia as a [Coinbase Scholar](https://www.unic.ac.cy/unic-and-coinbase-announce-awardees-of-their-scholarship-programme-for-minority-professionals/#:~:text=I%20chose%20to%20apply%20to%20the,accessibility%20of%20financial%20services)
 
-Below, you will find a portfolio of my learning journey and accomplishments in smart contract development & auditing.
+This is a public profile of my adventure as an auditor and researcher. Some of my projects and contributions are shared here.
 
-Contact me if you'd like to connect.
+[![Twitter: StephanJohnson_](https://img.shields.io/twitter/follow/StephanJohnson_?style=social)](https://twitter.com/stephanjohnson_)
 
 ## Table of Contents
 
-1. [Smart Contracts](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/smart-contracts)
-2. [Vulnerabilities and Safeguards](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards)
-3. [Wargames](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/wargames)
+1. [Smart Contracts](https://github.com/johnsonstephan#smart-contracts)
+2. [Vulnerabilities and Safeguards](https://github.com/johnsonstephan#vulnerabilities-and-safeguards)
+3. [Wargames](https://github.com/johnsonstephan#wargames)
+4. [Community Contributions](https://github.com/johnsonstephan#community-contributions)
 
 ### Smart Contracts
 
-Here, you can explore various smart contracts I've developed, including:
+[Here](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/smart-contracts) are various smart contracts I've developed, including:
 
 - [NFT Marketplace: OpenWave](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/smart-contracts/erc721/custom-erc721-marketplace)
 - [Custom NFT ERC721 Token](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/smart-contracts/erc721/custom-nft-erc721-token)
@@ -23,7 +27,7 @@ Here, you can explore various smart contracts I've developed, including:
 
 ### Vulnerabilities and Safeguards
 
-Here is a compilation of projects that underline common vulnerabilities and exhibit how they can be exploited. For some, improved contracts are included, showcasing best practices to fortify the contract's security. Highlights include:
+[Here](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards) is a compilation of projects that underline common vulnerabilities and exhibit how they can be exploited. For some, improved contracts are included, showcasing best practices to fortify the contract's security. Highlights include:
 
 - [CryptoBank Reentrancy](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/reentrancy/cryptobank-reentrancy)
 - [TX Origin Phishing](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/vulnerabilities-and-safeguards/phishing/tx-origin-phishing)
@@ -36,9 +40,15 @@ Here is a compilation of projects that underline common vulnerabilities and exhi
 
 ### Wargames
 
-Here are my solutions to blockchain security wargames, challenges, and capture the flag (CTF) competitions.
+[Here](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/wargames) are my solutions to blockchain security wargames, challenges, and capture the flag (CTF) competitions.
 
 - [Ethernaut](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/wargames/ethernaut)
+
+### Community Contributions
+
+I value contributing back to the smart contract security community. Highlights include:
+
+- [Awesome Uniswap v4 Hooks](https://github.com/johnsonstephan/awesome-uniswap-v4-hooks)
 
 ## Contact Info
 
