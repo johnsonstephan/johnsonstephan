@@ -4,6 +4,7 @@
 - Currently bug hunting and conducting research
 - Completed the [Secureum Bootcamp](https://www.secureum.xyz/bootcamp/)
 - Completed my [MSc in Blockchain and Digital Currency](https://www.unic.ac.cy/blockchain/msc-digital-currency/) at the University of Nicosia as a [Coinbase Scholar](https://www.unic.ac.cy/unic-and-coinbase-announce-awardees-of-their-scholarship-programme-for-minority-professionals/#:~:text=I%20chose%20to%20apply%20to%20the,accessibility%20of%20financial%20services)
+- Previously a Vice President at Goldman Sachs, leading business development and strategic partnerships
 
 This is a public profile of my adventure as an auditor and researcher. Some of my projects and contributions are shared here.
 
