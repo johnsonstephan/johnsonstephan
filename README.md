@@ -6,7 +6,9 @@
 - Completed my [MSc in Blockchain and Digital Currency](https://www.unic.ac.cy/blockchain/msc-digital-currency/) at the University of Nicosia as a [Coinbase Scholar](https://www.unic.ac.cy/unic-and-coinbase-announce-awardees-of-their-scholarship-programme-for-minority-professionals/#:~:text=I%20chose%20to%20apply%20to%20the,accessibility%20of%20financial%20services)
 - Previously a Vice President at Goldman Sachs, leading business development and strategic partnerships
 
-This is a public profile of my adventure as an auditor and researcher. Some of my projects and contributions are shared here.
+Here's a bit more about my [story](https://github.com/johnsonstephan/writing/blob/main/rebooted-dreams-whitehat-pt1.md).
+
+This is a public profile of my adventure as an auditor and researcher. Some of my projects and contributions are shared below.
 
 [![Twitter: StephanJohnson_](https://img.shields.io/twitter/follow/StephanJohnson_?style=social)](https://twitter.com/stephanjohnson_)
 
