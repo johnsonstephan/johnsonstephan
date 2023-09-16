@@ -52,7 +52,8 @@ This is a public profile of my adventure as an auditor and researcher. Some of m
 
 I value contributing back to the smart contract security community. Highlights include:
 
-- [Awesome Uniswap v4 Hooks](https://github.com/johnsonstephan/awesome-uniswap-v4-hooks)
+- [Awesome Uniswap v4 Hooks](https://github.com/johnsonstephan/awesome-uniswap-v4-hooks): I am the original creator of a comprehensive list of Uniswap v4 hooks and resources, which aimed to serve both seasoned researchers and emerging developers. Given the wealth of knowledge presented, a fellow community member updated their own similar resource with my contributions; I was credited as a contributor in a [pull request](https://github.com/fewwwww/awesome-uniswap-hooks/pull/11/files) where they deprecated [their previous awesome list](https://github.com/fewwwww/awesome-uniswap-hooks/tree/e20d477bd8f6c121e8a6edeb562a064c0038e705). The resource has been adopted by UniSwap and is included in their [v4 documentation](https://docs.uniswapfoundation.org/hooks/dev-resources).
+- [Awesome-Smart-Contract-Security](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security): I contributed to this list of resources for smart contract security via an audit of the repository's links - leading to the discovery and subsequent correction of non-functioning links.
 
 ## Contact Info
 
