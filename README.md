@@ -51,6 +51,8 @@ This is a public profile of my adventure as an auditor and researcher. Some of m
 
 ### My Toolkit
 
+#### Security Tools
+
 1. [Mythril](https://github.com/Consensys/mythril): I appreciate its extensibility, enabling me to script custom modules to detect specific vulnerabilities. For example, it can help in identifying a flawed external call that leads to a reentrancy attack.
 2. [Slither](https://github.com/crytic/slither): I find it invaluable during preliminary code assessments, when I can run a static analysis to identify vulnerabilities without executing the code. For instance, it can highlight an uninitialized state variable (intended to hold the contract owner's address) to flag risk for a potential ownership takeover.
 3. [Echidna](https://github.com/crytic/echidna): I value its holistic property-based testing approach which expands my toolkit beyond traditional unit testing to testing properties. One practical example is verifying that a transfer function consistently maintains the integrity of the total token supply.
@@ -58,6 +60,11 @@ This is a public profile of my adventure as an auditor and researcher. Some of m
 5. [Foundry](https://github.com/foundry-rs/foundry): Ultimately, I believe manual testing is the most powerful tool and Foundry enables me to generate POCs with simulated real-world contract interactions. It is useful for creating reports that go beyond outlining a theoretical weakness and requires the generation of tangible evidence for an exploit.
 
 Others: [Surya](https://github.com/Consensys/surya), [Ethlint](https://github.com/duaraghav8/Ethlint)
+
+#### Research Environment
+
+- Linux Distribution: [ZIION](https://www.ziion.org). I enjoy using ZIION because it is tailored for smart contract security and minimizes the usual environment setup woes. It has dozens of pre-installed tools (ranging from decompilers to vulnerability scanners) that I enjoy using and it supports Solidity/EVM + Rust-based blockchains.
+- IDE: [VS Code](https://code.visualstudio.com/). I appreciate the suites of great blockchain extensions. A few of my favorites include the [Solidity extension](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) to enable syntax highlighting and the [Solidity Visual Auditor](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) to visualize control flow graphs. For quick code review and testing I enjoy using [Remix](https://remix.ethereum.org) as well.
 
 ### Community Contributions
 
