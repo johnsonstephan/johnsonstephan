@@ -17,7 +17,8 @@ This is a public profile of my adventure as an auditor and researcher. Some of m
 1. [Smart Contracts](https://github.com/johnsonstephan#smart-contracts)
 2. [Vulnerabilities and Safeguards](https://github.com/johnsonstephan#vulnerabilities-and-safeguards)
 3. [Wargames](https://github.com/johnsonstephan#wargames)
-4. [Community Contributions](https://github.com/johnsonstephan#community-contributions)
+4. [My Toolkit](https://github.com/johnsonstephan#my-toolkit)
+5. [Community Contributions](https://github.com/johnsonstephan#community-contributions)
 
 ### Smart Contracts
 
@@ -47,6 +48,16 @@ This is a public profile of my adventure as an auditor and researcher. Some of m
 [Here](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/wargames) are my solutions to blockchain security wargames, challenges, and capture the flag (CTF) competitions.
 
 - [Ethernaut](https://github.com/johnsonstephan/smart-contract-security-researcher-portfolio/tree/main/wargames/ethernaut)
+
+### My Toolkit
+
+1. [Mythril](https://github.com/Consensys/mythril): I appreciate its extensibility, enabling me to script custom modules to detect specific vulnerabilities. For example, it can help in identifying a flawed external call that leads to a reentrancy attack.
+2. [Slither](https://github.com/crytic/slither): I find it invaluable during preliminary code assessments, when I can run a static analysis to identify vulnerabilities without executing the code. For instance, it can highlight an uninitialized state variable (intended to hold the contract owner's address) to flag risk for a potential ownership takeover.
+3. [Echidna](https://github.com/crytic/echidna): I value its holistic property-based testing approach which expands my toolkit beyond traditional unit testing to testing properties. One practical example is verifying that a transfer function consistently maintains the integrity of the total token supply.
+4. [Manticore](https://github.com/trailofbits/manticore): I like to think of Manticore as my personal army of testers, leveraging symbolic execution to traverse all conceivable paths within a contract. For example, it can detect a multi-sig vulnerability that permits unauthorized fund withdrawals despite insufficient signature counts.
+5. [Foundry](https://github.com/foundry-rs/foundry): Ultimately, I believe manual testing is the most powerful tool and Foundry enables me to generate POCs with simulated real-world contract interactions. It is useful for creating reports that go beyond outlining a theoretical weakness and requires the generation of tangible evidence for an exploit.
+
+Others: [Surya](https://github.com/Consensys/surya), [Ethlint](https://github.com/duaraghav8/Ethlint)
 
 ### Community Contributions
 
